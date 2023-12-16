@@ -108,13 +108,6 @@ textarea {
     gap: 40px; 
 }
 
-.header-nav-item {
-    margin-right: 24px;
-}
-
-.header-nav-item:last-child {
-    margin-right: 0;
-}
 
 .header-nav-item-link {
     color: #2E2F42;
